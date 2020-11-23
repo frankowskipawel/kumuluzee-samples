@@ -11,6 +11,7 @@
 
         <module>jpa</module>
         <module>servlet</module>
+        <module>microservices-simple</module>
 
     </modules>
 
